@@ -1,2 +1,4 @@
+postgres:
+    tag: "16-alpine"
 project:
     name: etl-medallion-arch-upwork
